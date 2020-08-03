@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Calmatfra
+comment1.params=
+comment1.target=Calmatfra()
+comment1.text=\ Constructor\ de\ un\ nuevo\ Calmatfra\r\n
+comment2.params=variable\ matriz
+comment2.target=void\ asigne(java.lang.String,\ int[][][])
+comment2.text=\r\n\ Asigna\ a\ la\ llave\ dada,\ la\ matriz\ indicada\ al\ hashmap\r\n\ @param\ variable,\ la\ llave\ con\ la\ que\ se\ guardar\u00E1\ la\ matriz\ en\ el\ hashmap\r\n\ @param\ matriz,\ la\ matriz\ que\ se\ va\ a\ guardar\r\n
+comment3.params=respuesta\ operando1\ operacion\ operando2
+comment3.target=void\ opere(java.lang.String,\ java.lang.String,\ char,\ java.lang.String)
+comment3.text=Realiza\ la\ operaci\u00F3n\ deseada\ por\ el\ usuario\ con\ las\ dos\ matrices\ que\ indique\r\n\ @param\ respuesta,\ ser\u00E1\ la\ llave\ con\ la\ que\ colocaremos\ la\ matriz\ resultante\ en\ variables\r\n\ @param\ operando1,\ la\ llave\ de\ la\ primera\ matriz\ que\ se\ desea\ operar\r\n\ @param\ operaci\u00F3n,\ el\ signo\ de\ la\ operaci\u00F3n\ que\ se\ desea\ realizar\r\n\ @param\ operando2,\ la\ llave\ de\ la\ segunda\ matriz\ que\ se\ desea\ operar\r\n\ \r\n
+comment4.params=variable
+comment4.target=java.lang.String\ consulta(java.lang.String)
+comment4.text=\r\n\ devuelve\ en\ forma\ de\ string\ la\ matriz\ correspondiente\r\n\ @param\ variable,\ es\ la\ llave\ de\ la\ matriz\ que\ desea\ consultar\r\n\ @return\ la\ matriz\ deseada\ en\ formato\ de\ String\r\n
+comment5.params=
+comment5.target=boolean\ ok()
+comment5.text=\ \r\n\ Retorna\ si\ la\ ultima\ operaci\u00F3n/acci\u00F3n\ realizada\ por\ en\ la\ calculadora\ fue\ hecha\ satisfactoriamente\ o\ no.\r\n\ @return\ Booleano\ valor\ de\ la\ ultima\ accion\r\n
+numComments=6

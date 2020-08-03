@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=EquipoTest
+comment1.params=
+comment1.target=EquipoTest()
+comment2.params=
+comment2.target=void\ setUp()
+comment3.params=
+comment3.target=void\ tearDown()
+comment4.params=
+comment4.target=void\ deberiaCalcularElValorDeUnEquipo()
+comment5.params=
+comment5.target=void\ deberiaLanzarExcepcionSiElEquipoNoTienePersonas()
+comment6.params=
+comment6.target=void\ deberiaLanzarExcepcionSiNoSeConoceElValorDeUnaPersona()
+comment7.params=
+comment7.target=void\ deberiaLanzarExcepcionSiNoSeConoceUnaPersona()
+comment8.params=
+comment8.target=void\ deberiaLanzarExcepcionSiNoSeConoceUnaPersonaEnLaHoraEstimada()
+comment9.params=
+comment9.target=void\ deberiaLanzarExcepcionSiNoEsPosibleCalcularSuHoraEstimada()
+numComments=10

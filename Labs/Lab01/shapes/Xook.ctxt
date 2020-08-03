@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Xook
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Xook\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x
+comment1.target=Xook(int)
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=distance
+comment3.target=void\ moveHorizontal(int)
+comment4.params=nColor
+comment4.target=void\ changeColor(java.lang.String)
+comment5.params=
+comment5.target=void\ makeVisible()
+comment6.params=
+comment6.target=void\ makeInvisible()
+comment7.params=bars\ points\ zeros
+comment7.target=void\ drawAll(int,\ int,\ int)
+comment8.params=nValue
+comment8.target=void\ setValue(int)
+comment9.params=
+comment9.target=void\ random()
+numComments=10

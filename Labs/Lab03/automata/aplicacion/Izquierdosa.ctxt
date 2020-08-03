@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Izquierdosa
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Iquierdoza\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=automata\ x\ y
+comment1.target=Izquierdosa(AutomataCelular,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Conway\r\n\ @param\ automata\ el\ automata\ celular\ al\ que\ pertence\r\n\ @param\ x\ la\ posicion\ en\ las\ filas\r\n\ @param\ y\ la\ poscion\ en\ la\ columna\r\n
+comment2.params=
+comment2.target=void\ decida()
+comment2.text=\r\n\ Cambia\ el\ estado\ siguiente\ directamente\ a\ muerta\ si\ encuentra\ una\ a\ la\ derecha\r\n
+numComments=3

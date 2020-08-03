@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Barrera
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Barrera\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=automata\ row\ column
+comment1.target=Barrera(AutomataCelular,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Barrera\r\n
+comment2.params=vecinos
+comment2.target=void\ setVecinos(int)
+comment3.params=
+comment3.target=char\ getEstado()
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+numComments=5
