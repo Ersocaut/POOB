@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ConsoleInput
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ConsoleInput\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=boolean\ lastReadWasGood()
+comment2.params=
+comment2.target=java.lang.String\ readToWhiteSpace()
+comment3.params=
+comment3.target=java.lang.String\ scanfRead()
+comment4.params=unwantedSequence
+comment4.target=java.lang.String\ scanfRead(java.lang.String)
+comment5.params=unwantedSequence\ maxFieldLength
+comment5.target=java.lang.String\ scanfRead(java.lang.String,\ int)
+numComments=6

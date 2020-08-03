@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CheckersContest
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CheckersContest\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=width
+comment1.target=CheckersContest(int)
+comment2.params=player\ moves
+comment2.target=void\ solve(char,\ java.lang.String[])
+comment3.params=
+comment3.target=getIndex()
+comment4.params=player\ moves\ slow
+comment4.target=void\ simulate(char,\ java.lang.String[],\ boolean)
+numComments=5

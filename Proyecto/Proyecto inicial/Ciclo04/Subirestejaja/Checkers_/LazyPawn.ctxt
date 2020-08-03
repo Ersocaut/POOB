@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=LazyPawn
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LazyPawn\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=isKing\ team
+comment1.target=LazyPawn(boolean,\ int)
+comment10.params=
+comment10.target=void\ recoverColor()
+comment2.params=size
+comment2.target=void\ changeSize(int)
+comment3.params=color
+comment3.target=void\ changeColor(java.lang.String)
+comment4.params=desp
+comment4.target=void\ moveHorizontal(int)
+comment5.params=desp
+comment5.target=void\ moveVertical(int)
+comment6.params=
+comment6.target=void\ makeVisible()
+comment7.params=
+comment7.target=void\ makeInvisible()
+comment8.params=x\ y
+comment8.target=void\ setPos(int,\ int)
+comment9.params=
+comment9.target=void\ changeCenter()
+numComments=11

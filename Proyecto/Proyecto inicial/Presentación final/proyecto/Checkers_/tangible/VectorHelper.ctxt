@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=VectorHelper
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ VectorHelper\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=list\ newSize
+comment1.target=void\ resize(java.util.ArrayList,\ int)
+comment2.params=list\ newSize\ value
+comment2.target=void\ resize(java.util.ArrayList,\ int,\ java.lang.Object)
+comment3.params=list1\ list2
+comment3.target=void\ swap(java.util.ArrayList,\ java.util.ArrayList)
+comment4.params=size\ value
+comment4.target=java.util.ArrayList\ initializedArrayList(int,\ java.lang.Object)
+comment5.params=outerSize\ innerSize
+comment5.target=java.util.ArrayList\ nestedArrayList(int,\ int)
+comment6.params=outerSize\ innerSize\ value
+comment6.target=java.util.ArrayList\ nestedArrayList(int,\ int,\ java.lang.Object)
+numComments=7

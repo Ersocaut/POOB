@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StringFunctions
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StringFunctions\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=sourceString\ charIndex\ newChar
+comment1.target=java.lang.String\ changeCharacter(java.lang.String,\ int,\ char)
+comment2.params=character
+comment2.target=boolean\ isXDigit(char)
+comment3.params=stringToSearch\ charToFind
+comment3.target=java.lang.String\ strChr(java.lang.String,\ char)
+comment4.params=stringToSearch\ charToFind
+comment4.target=java.lang.String\ strRChr(java.lang.String,\ char)
+comment5.params=stringToSearch\ stringToFind
+comment5.target=java.lang.String\ strStr(java.lang.String,\ java.lang.String)
+comment6.params=stringToTokenize\ delimiters
+comment6.target=java.lang.String\ strTok(java.lang.String,\ java.lang.String)
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=arena
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ arena\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ \r\n
+comment1.params=
+comment1.target=arena()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ arena\r\n
+comment2.params=player
+comment2.target=char\ opp(char)
+comment3.params=sq
+comment3.target=int\ sqX(int)
+comment4.params=sq
+comment4.target=int\ sqY(int)
+comment5.params=start2
+comment5.target=tangible.Pair\ doit(java.util.ArrayList)
+comment6.params=
+comment6.target=void\ Main()
+numComments=7
